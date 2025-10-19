@@ -8,4 +8,4 @@ We are progressively opening the source code under the AGPL-3.0 license.  Our si
 - [x] Twinlife proxy
 - [ ] Android twinme application
 - [ ] iOS twinme application
-- [ ] WebRTC adaptations
+- [x] WebRTC adaptations
