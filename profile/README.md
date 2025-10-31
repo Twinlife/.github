@@ -6,6 +6,6 @@ We are progressively opening the source code under the AGPL-3.0 license.  Our si
 - [x] Click-to-call UI webapp
 - [x] Webapp click-to-call signaling server
 - [x] Twinlife proxy
-- [ ] Android twinme application
+- [x] Android twinme application
 - [ ] iOS twinme application
 - [x] WebRTC adaptations
